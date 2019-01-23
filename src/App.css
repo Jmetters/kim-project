@@ -1,0 +1,25 @@
+
+body{
+  background: grey;
+}
+
+.wrapper{
+  position:absolute;
+  left: 50%;
+  top: 50%;
+}
+
+.backdrop{
+  background: url('http://www.abchome.com/wp-content/uploads/2016/07/abckitchen-food2.jpg');
+background-position: center;
+height: 200px;
+}
+
+.knockout_text{
+color: #fff;
+background: rgb(59,2,6);
+mix-blend-mode: multiply;
+text-align: center;
+height: 200px;
+font-size: 10rem;
+}
